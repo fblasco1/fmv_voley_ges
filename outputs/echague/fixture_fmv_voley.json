@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "source": "fmv_voley",
+  "generated_at": "2026-08-28T21:20:00-03:00",
+  "club": "PEDRO ECHAGUE",
+  "club_id_fmv": 420,
+  "partidos": [
+    {
+      "source": "fmv_voley",
+      "external_id": "277189",
+      "fecha": "2026-09-03",
+      "hora": "21:30",
+      "categoria": "Superiores",
+      "tira": "Septima",
+      "equipo": "Superiores ECHAGÜE B",
+      "rival": "GELP B",
+      "localia": "Local",
+      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
+      "espacio": "Cancha 2",
+      "venue": "ECHAGÜE #1",
+      "numero_partido": 57434,
+      "status_label": "Programado"
+    },
+    {
+      "source": "fmv_voley",
+      "external_id": "276521",
+      "fecha": "2026-09-11",
+      "hora": "21:30",
+      "categoria": "Superiores",
+      "tira": "Tercera",
+      "equipo": "Superiores ECHAGÜE",
+      "rival": "PIEDAD",
+      "localia": "Local",
+      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
+      "espacio": "Cancha 1",
+      "venue": "ECHAGÜE #1",
+      "numero_partido": 53142,
+      "status_label": "Programado"
+    },
+    {
+      "source": "fmv_voley",
+      "external_id": "238993",
+      "fecha": "2026-08-29",
+      "hora": "09:00",
+      "categoria": "Sub 11",
+      "tira": "Nivel D",
+      "equipo": "Sub 11 ECHAGÜE",
+      "rival": "UBA",
+      "localia": "Visitante",
+      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
+      "espacio": null,
+      "venue": "UBA 2 #2",
+      "numero_partido": 741209,
+      "status_label": "Programado"
+    }
+  ]
+}

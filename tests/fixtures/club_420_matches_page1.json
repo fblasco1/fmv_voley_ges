@@ -1,0 +1,79 @@
+{
+  "matches": [
+    {
+      "id": 238993,
+      "number": 741209,
+      "scheduledAt": "2026-08-29T09:00:00",
+      "categoryName": "Sub 11",
+      "divisionName": "Nivel D",
+      "venue": "UBA 2 #2",
+      "homeTeam": {
+        "name": "UBA"
+      },
+      "awayTeam": {
+        "name": "ECHAGÜE"
+      },
+      "statusLabel": "Programado"
+    },
+    {
+      "id": 277189,
+      "number": 57434,
+      "scheduledAt": "2026-09-03T21:30:00",
+      "categoryName": "Superiores",
+      "divisionName": "Septima",
+      "venue": "ECHAGÜE #1",
+      "homeTeam": {
+        "name": "ECHAGÜE B",
+        "clubId": 420
+      },
+      "awayTeam": {
+        "name": "GELP B"
+      },
+      "statusLabel": "Programado"
+    },
+    {
+      "id": 276516,
+      "number": 53137,
+      "scheduledAt": "2026-09-04T21:30:00",
+      "categoryName": "Superiores",
+      "divisionName": "Tercera",
+      "venue": "AC #2",
+      "homeTeam": {
+        "name": "AC B"
+      },
+      "awayTeam": {
+        "name": "ECHAGÜE",
+        "clubId": 420
+      },
+      "statusLabel": "Programado"
+    },
+    {
+      "id": 276521,
+      "number": 53142,
+      "scheduledAt": "2026-09-11T21:30:00",
+      "categoryName": "Superiores",
+      "divisionName": "Tercera",
+      "venue": "ECHAGÜE #1",
+      "homeTeam": {
+        "name": "ECHAGÜE",
+        "clubId": 420
+      },
+      "awayTeam": {
+        "name": "PIEDAD"
+      },
+      "statusLabel": "Programado"
+    }
+  ],
+  "addresses": [
+    {
+      "name": "Inst. Cult. Dep. Pedro Echagüe",
+      "address": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836",
+      "city": "Capital Federal"
+    },
+    {
+      "name": "Parque Olímpico",
+      "address": "CANCHA P.OLIMPICO: Av. Coronel Roca 4170",
+      "city": "CABA"
+    }
+  ]
+}
