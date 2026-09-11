@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-09-10T21:38:12-03:00",
+  "generated_at": "2026-09-11T11:40:25-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "277190",
-      "fecha": "2026-09-10",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "APV",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "APV #1",
-      "numero_partido": 57435,
-      "status_label": "En vivo"
-    },
     {
       "source": "fmv_voley",
       "external_id": "276521",
