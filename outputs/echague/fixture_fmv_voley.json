@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-09-11T11:40:25-03:00",
+  "generated_at": "2026-09-11T21:45:34-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
@@ -19,7 +19,7 @@
       "espacio": "Cancha 1",
       "venue": "ECHAGÜE #1",
       "numero_partido": 53142,
-      "status_label": "Programado"
+      "status_label": "En vivo"
     },
     {
       "source": "fmv_voley",
