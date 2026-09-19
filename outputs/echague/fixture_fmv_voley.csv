@@ -1,7 +1,5 @@
 external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espacio,direccion,venue,status_label
-276525,53146,2026-09-18,21:30,Superiores,Tercera,Superiores ECHAGÜE,LIM,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",LIM #1,En vivo
-239072,741288,2026-09-19,10:00,Sub 11,Nivel D,Sub 11 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
-239600,742288,2026-09-19,11:00,Sub 12,Nivel D,Sub 12 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
+239600,742288,2026-09-19,11:00,Sub 12,Nivel D,Sub 12 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,En vivo
 240128,743288,2026-09-19,12:00,Sub 13,Nivel D,Sub 13 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 240656,744288,2026-09-19,13:15,Sub 14,Nivel D,Sub 14 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 241052,745288,2026-09-19,14:30,Sub 15,Nivel D,Sub 15 ECHAGÜE,HURACAN,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
@@ -41,8 +39,8 @@ external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espaci
 241726,746302,2026-10-24,14:45,Sub 16,Nivel D,Sub 16 ECHAGÜE,GEVP,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",GEVP #1,Programado
 242254,748302,2026-10-24,16:00,Sub 18,Nivel D,Sub 18 ECHAGÜE,GEVP,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",GEVP #1,Programado
 242782,749302,2026-10-24,18:00,Sub 21,Nivel D,Sub 21 ECHAGÜE,GEVP,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",GEVP #1,Programado
-277211,57456,2026-10-29,21:30,Superiores,Septima,Superiores ECHAGÜE B,APV,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 276549,53170,2026-10-29,21:30,Superiores,Tercera,Superiores ECHAGÜE,PIEDAD,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",PIEDAD #1,Programado
+277211,57456,2026-10-29,21:30,Superiores,Septima,Superiores ECHAGÜE B,APV,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 239097,741313,2026-10-31,09:30,Sub 11,Nivel D,Sub 11 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
 239625,742313,2026-10-31,10:30,Sub 12,Nivel D,Sub 12 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
 240153,743313,2026-10-31,11:30,Sub 13,Nivel D,Sub 13 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
