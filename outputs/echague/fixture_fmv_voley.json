@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-01T14:10:33-03:00",
+  "generated_at": "2026-10-01T22:51:21-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "277199",
-      "fecha": "2026-10-01",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "VARG B",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "VARG #1",
-      "numero_partido": 57444,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "276534",
