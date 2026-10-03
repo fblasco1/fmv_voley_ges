@@ -1,58 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-02T22:30:31-03:00",
+  "generated_at": "2026-10-03T11:58:14-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "276534",
-      "fecha": "2026-10-02",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Tercera",
-      "equipo": "Superiores ECHAGÜE",
-      "rival": "CPAZUL",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 1",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 53155,
-      "status_label": "En vivo"
-    },
-    {
-      "source": "fmv_voley",
-      "external_id": "239085",
-      "fecha": "2026-10-03",
-      "hora": "10:00",
-      "categoria": "Sub 11",
-      "tira": "Nivel D",
-      "equipo": "Sub 11 ECHAGÜE",
-      "rival": "RACING",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 2",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 741301,
-      "status_label": "Programado"
-    },
-    {
-      "source": "fmv_voley",
-      "external_id": "239613",
-      "fecha": "2026-10-03",
-      "hora": "11:00",
-      "categoria": "Sub 12",
-      "tira": "Nivel D",
-      "equipo": "Sub 12 ECHAGÜE",
-      "rival": "RACING",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 2",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 742301,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "240141",
@@ -67,7 +19,7 @@
       "espacio": "Cancha 2",
       "venue": "ECHAGÜE #1",
       "numero_partido": 743301,
-      "status_label": "Programado"
+      "status_label": "En vivo"
     },
     {
       "source": "fmv_voley",
@@ -355,22 +307,6 @@
       "espacio": "Cancha 1",
       "venue": "ECHAGÜE #1",
       "numero_partido": 53165,
-      "status_label": "Programado"
-    },
-    {
-      "source": "fmv_voley",
-      "external_id": "277211",
-      "fecha": "2026-10-29",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "APV",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 2",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 57456,
       "status_label": "Programado"
     },
     {
