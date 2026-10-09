@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-08T14:37:53-03:00",
+  "generated_at": "2026-10-08T23:37:36-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "277204",
-      "fecha": "2026-10-08",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "NOLTING",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 2",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 57449,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "276535",
