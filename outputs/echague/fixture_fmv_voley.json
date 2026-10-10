@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-09T22:57:39-03:00",
+  "generated_at": "2026-10-10T12:58:29-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "276535",
-      "fecha": "2026-10-09",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Tercera",
-      "equipo": "Superiores ECHAGÜE",
-      "rival": "CCC",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "CCC #1",
-      "numero_partido": 53156,
-      "status_label": "En vivo"
-    },
     {
       "source": "fmv_voley",
       "external_id": "240670",
@@ -151,22 +135,6 @@
     },
     {
       "source": "fmv_voley",
-      "external_id": "277211",
-      "fecha": "2026-10-29",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "APV",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 2",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 57456,
-      "status_label": "Programado"
-    },
-    {
-      "source": "fmv_voley",
       "external_id": "276549",
       "fecha": "2026-10-29",
       "hora": "21:30",
@@ -179,6 +147,22 @@
       "espacio": null,
       "venue": "PIEDAD #1",
       "numero_partido": 53170,
+      "status_label": "Programado"
+    },
+    {
+      "source": "fmv_voley",
+      "external_id": "277211",
+      "fecha": "2026-10-29",
+      "hora": "21:30",
+      "categoria": "Superiores",
+      "tira": "Septima",
+      "equipo": "Superiores ECHAGÜE B",
+      "rival": "APV",
+      "localia": "Local",
+      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
+      "espacio": "Cancha 2",
+      "venue": "ECHAGÜE #1",
+      "numero_partido": 57456,
       "status_label": "Programado"
     },
     {
