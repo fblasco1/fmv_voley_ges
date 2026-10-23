@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-22T22:03:40-03:00",
+  "generated_at": "2026-10-23T12:30:11-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "277210",
-      "fecha": "2026-10-22",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "GELP B",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "CENTENARIO #1",
-      "numero_partido": 57455,
-      "status_label": "En vivo"
-    },
     {
       "source": "fmv_voley",
       "external_id": "276544",
