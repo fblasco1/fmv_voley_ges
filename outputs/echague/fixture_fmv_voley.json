@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-10-29T23:13:53-03:00",
+  "generated_at": "2026-10-30T13:50:44-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "276549",
-      "fecha": "2026-10-29",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Tercera",
-      "equipo": "Superiores ECHAGÜE",
-      "rival": "PIEDAD",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "PIEDAD #1",
-      "numero_partido": 53170,
-      "status_label": "En vivo"
-    },
     {
       "source": "fmv_voley",
       "external_id": "239097",
