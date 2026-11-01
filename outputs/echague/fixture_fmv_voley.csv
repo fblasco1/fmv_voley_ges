@@ -1,9 +1,4 @@
 external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espacio,direccion,venue,status_label
-240681,744313,2026-10-31,12:45,Sub 14,Nivel D,Sub 14 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
-241077,745313,2026-10-31,14:00,Sub 15,Nivel D,Sub 15 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
-241737,746313,2026-10-31,15:15,Sub 16,Nivel D,Sub 16 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
-242265,748313,2026-10-31,16:30,Sub 18,Nivel D,Sub 18 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
-242793,749313,2026-10-31,18:30,Sub 21,Nivel D,Sub 21 ECHAGÜE,CANG,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",CANG 2 #2,Programado
 239033,741249,2026-11-08,09:30,Sub 11,Nivel D,Sub 11 ECHAGÜE,OESTE,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",OESTE #1,Programado
 239561,742249,2026-11-08,10:30,Sub 12,Nivel D,Sub 12 ECHAGÜE,OESTE,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",OESTE #1,Programado
 240089,743249,2026-11-08,11:30,Sub 13,Nivel D,Sub 13 ECHAGÜE,OESTE,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",OESTE #1,Programado
