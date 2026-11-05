@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-11-04T15:18:23-03:00",
+  "generated_at": "2026-11-04T23:56:02-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "239033",
-      "fecha": "2026-11-08",
-      "hora": "09:30",
-      "categoria": "Sub 11",
-      "tira": "Nivel D",
-      "equipo": "Sub 11 ECHAGÜE",
-      "rival": "OESTE",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "OESTE #1",
-      "numero_partido": 741249,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "239561",
