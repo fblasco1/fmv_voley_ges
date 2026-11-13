@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-11-12T15:38:10-03:00",
+  "generated_at": "2026-11-12T23:59:53-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "277215",
-      "fecha": "2026-11-12",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Septima",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "CGBEL",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "CGBEL #1",
-      "numero_partido": 57460,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "276553",
