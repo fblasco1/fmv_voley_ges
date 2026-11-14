@@ -1,5 +1,4 @@
 external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espacio,direccion,venue,status_label
-276553,53174,2026-11-13,21:30,Superiores,Tercera,Superiores ECHAGÜE,LIM,Local,Cancha 1,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 239108,741324,2026-11-15,09:00,Sub 11,Nivel D,Sub 11 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
 239636,742324,2026-11-15,10:00,Sub 12,Nivel D,Sub 12 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
 240164,743324,2026-11-15,11:00,Sub 13,Nivel D,Sub 13 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
@@ -14,5 +13,5 @@ external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espaci
 240696,744328,2026-11-28,13:15,Sub 14,Nivel D,Sub 14 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 241092,745328,2026-11-28,14:30,Sub 15,Nivel D,Sub 15 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 241752,746328,2026-11-28,15:45,Sub 16,Nivel D,Sub 16 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
-242280,748328,2026-11-28,17:00,Sub 18,Nivel D,Sub 18 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
-242808,749328,2026-11-28,18:30,Sub 21,Nivel D,Sub 21 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
+242280,748328,2026-11-29,17:00,Sub 18,Nivel D,Sub 18 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
+242808,749328,2026-11-29,18:30,Sub 21,Nivel D,Sub 21 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado

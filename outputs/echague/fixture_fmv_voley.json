@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-11-13T15:13:28-03:00",
+  "generated_at": "2026-11-13T23:46:29-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "276553",
-      "fecha": "2026-11-13",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Tercera",
-      "equipo": "Superiores ECHAGÜE",
-      "rival": "LIM",
-      "localia": "Local",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": "Cancha 1",
-      "venue": "ECHAGÜE #1",
-      "numero_partido": 53174,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "239108",
@@ -248,7 +232,7 @@
     {
       "source": "fmv_voley",
       "external_id": "242280",
-      "fecha": "2026-11-28",
+      "fecha": "2026-11-29",
       "hora": "17:00",
       "categoria": "Sub 18",
       "tira": "Nivel D",
@@ -264,7 +248,7 @@
     {
       "source": "fmv_voley",
       "external_id": "242808",
-      "fecha": "2026-11-28",
+      "fecha": "2026-11-29",
       "hora": "18:30",
       "categoria": "Sub 21",
       "tira": "Nivel D",
