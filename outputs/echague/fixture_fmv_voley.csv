@@ -1,8 +1,4 @@
 external_id,numero_partido,fecha,hora,categoria,tira,equipo,rival,localia,espacio,direccion,venue,status_label
-241088,745324,2026-11-15,13:30,Sub 15,Nivel D,Sub 15 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,En vivo
-241748,746324,2026-11-15,14:45,Sub 16,Nivel D,Sub 16 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
-242276,748324,2026-11-15,16:00,Sub 18,Nivel D,Sub 18 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
-242804,749324,2026-11-15,18:00,Sub 21,Nivel D,Sub 21 ECHAGÜE,CI B,Visitante,,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",S. ESPAÑOLA,Programado
 239112,741328,2026-11-28,10:00,Sub 11,Nivel D,Sub 11 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 239640,742328,2026-11-28,11:00,Sub 12,Nivel D,Sub 12 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
 240168,743328,2026-11-28,12:00,Sub 13,Nivel D,Sub 13 ECHAGÜE,SGREGOR B,Local,Cancha 2,"CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",ECHAGÜE #1,Programado
