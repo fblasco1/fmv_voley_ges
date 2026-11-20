@@ -1,26 +1,10 @@
 {
   "version": 1,
   "source": "fmv_voley",
-  "generated_at": "2026-11-19T16:12:58-03:00",
+  "generated_at": "2026-11-20T00:46:31-03:00",
   "club": "PEDRO ECHAGUE",
   "club_id_fmv": 420,
   "partidos": [
-    {
-      "source": "fmv_voley",
-      "external_id": "298683",
-      "fecha": "2026-11-19",
-      "hora": "21:30",
-      "categoria": "Superiores",
-      "tira": "Sexta",
-      "equipo": "Superiores ECHAGÜE B",
-      "rival": "PORTELA",
-      "localia": "Visitante",
-      "direccion": "CANCHA ECHAGÜE Y SECRETARIA: Portela 836, Capital Federal",
-      "espacio": null,
-      "venue": "PORTELA #1",
-      "numero_partido": 56532,
-      "status_label": "Programado"
-    },
     {
       "source": "fmv_voley",
       "external_id": "298718",
